@@ -13,6 +13,24 @@ var campgrounds = [
     },
     {
         name: "Rainy Falls", image: "https://static.pexels.com/photos/25540/pexels-photo-25540.jpg"
+    },
+       {
+        name: "Happy Creek", image: "https://static.pexels.com/photos/27865/pexels-photo-27865-large.jpg"
+    },
+    {
+        name: "Granite Creek", image: "https://static.pexels.com/photos/27679/pexels-photo-27679-large.jpg"
+    },
+    {
+        name: "Rainy Falls", image: "https://static.pexels.com/photos/25540/pexels-photo-25540.jpg"
+    },
+       {
+        name: "Happy Creek", image: "https://static.pexels.com/photos/27865/pexels-photo-27865-large.jpg"
+    },
+    {
+        name: "Granite Creek", image: "https://static.pexels.com/photos/27679/pexels-photo-27679-large.jpg"
+    },
+        {
+        name: "Granite Creek", image: "https://static.pexels.com/photos/27679/pexels-photo-27679-large.jpg"
     }
     ];
 
