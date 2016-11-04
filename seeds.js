@@ -6,17 +6,17 @@ var data = [
     { 
         name: "Cloud's Rest", 
         image: "https://static.pexels.com/photos/30915/pexels-photo-30915-large.jpg", 
-        description: "blah blah blah"
+        description: "No nam aeterno corpora partiendo. Munere animal vulputate ea sea, sed persequeris delicatissimi ex, eum nonumy viderer referrentur ea. Ea mei augue zril commodo, nam feugiat electram no. Ullum eloquentiam cum te, dico admodum vim eu"
     }, 
     { 
         name: "Camp Cloudy", 
         image: "https://static.pexels.com/photos/127634/pexels-photo-127634-large.jpeg", 
-        description: "blah blah blah"
+        description: "No nam aeterno corpora partiendo. Munere animal vulputate ea sea, sed persequeris delicatissimi ex, eum nonumy viderer referrentur ea. Ea mei augue zril commodo, nam feugiat electram no. Ullum eloquentiam cum te, dico admodum vim eu"
     }, 
         { 
         name: "Starry Falls", 
         image: "https://static.pexels.com/photos/112378/pexels-photo-112378-large.jpeg", 
-        description: "blah blah blah"
+        description: "No nam aeterno corpora partiendo. Munere animal vulputate ea sea, sed persequeris delicatissimi ex, eum nonumy viderer referrentur ea. Ea mei augue zril commodo, nam feugiat electram no. Ullum eloquentiam cum te, dico admodum vim eu"
     }
 ];
 
